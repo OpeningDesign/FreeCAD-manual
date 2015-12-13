@@ -9,6 +9,7 @@
     * [Installing additional content](installing.md#installing-additional-content)
   * [The FreeCAD interface](the_freecad_interface.md)
     * [Workbenches](the_freecad_interface.md#workbenches)
+    * [Parts of the interface](the_freecad_interface.md#parts-of-the-interface)
     * [Customizing the interface](the_freecad_interface.md#customizing-the-interface)
   * [Navigating in the 3D view](navigating_in_the_3d_view.md)
     * [A word about the 3D space](navigating_in_the_3d_view.md#a-word-about-the-3d-space)
@@ -23,6 +24,7 @@
   * Traditional 2D drafting
   * Modeling for product design
   * Generating 2D drawings
+  * Preparing models for 3D printing
   * BIM modeling
   * Using spreadsheets
   * Creating FEM analyses
